@@ -24,17 +24,14 @@ body {
     display: inline-flex;
     text-align: center;
     margin: 0 auto;
-    // box-sizing: border-box;
-    // padding: 10px;
     font-family: 'Space Mono', 'Courier', monospace;
     position: relative;
-    overflow: hidden;
     vertical-align: baseline;
     height: 100%;
     width: 20%;
   }
   
-  // Color Blocks
+  /* Color Blocks */
   #ice {
     background-color: #669bbc;
     color: white;
